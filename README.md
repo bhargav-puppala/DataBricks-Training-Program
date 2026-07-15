@@ -9,13 +9,35 @@ It serves as a structured record of the concepts covered during the course, alon
 * Daily Notes
 * SQL Practice
 * Assignments
-* Resources
-* Images (when applicable)
+* Hands-on Exercises
 
 ## Progress
 
-* ✅ Day 1 — Introduction to Data Engineering, OLTP vs OLAP, ETL (Introduction), SQL Basics
-* ⏳ Day 2 — To be updated
-* ⏳ Day 3 — To be updated
+* ✅ **Day 1**
 
-> This repository will be updated as the course progresses.
+  * Introduction to Data Engineering
+  * OLTP vs OLAP
+  * ETL (Introduction)
+  * SQL Basics
+  * SELECT
+  * WHERE
+  * GROUP BY
+  * HAVING
+  * TOP
+  * DISTINCT
+
+* ✅ **Day 2**
+
+  * Comparison Operators
+  * Logical Operators
+  * IN & NOT IN
+  * BETWEEN
+  * LIKE Operator
+  * SQL Joins
+
+    * INNER JOIN
+    * LEFT OUTER JOIN
+    * RIGHT OUTER JOIN
+    * FULL OUTER JOIN
+
+> This repository will be updated as the training progresses.
